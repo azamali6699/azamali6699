@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azamali6699
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ... data structure
+- 🌱 I’m currently learning ... data structure , logic
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
